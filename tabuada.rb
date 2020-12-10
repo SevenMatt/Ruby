@@ -11,4 +11,3 @@ for i in 1..10
     puts "#{i} * 10 = #{10 * i}"
     puts
 end
-
